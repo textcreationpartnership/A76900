@@ -1,0 +1,160 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bloudy newes from sea: being a perfect narrative, and exact relation, of the great and desperate engaging, between two hundred sail of English and Dutch-Men of war, upon the coast of Scilley: with the manner how Gen. Blake, and Sir George Ascue, drew their fleet into Battalia; the resolution of the Hollander; and the number of ships taken by the English. Also, the chasing of divers ships to the Downs; the taking of some English by Captain Bradshaw; the sinking of the London Faulcon; the number of ships surprized in Sole-Bay neer Yarmouth; and above one hundred sail of colliers coming into the Downs, bound for London. With the seizing of all the ships and goods belonging to the English merchants at St. Mallows in France; and the Kings proclamation to all his subjects.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1652</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A76900</idno>
+            <idno type="STC">Wing B3278</idno>
+            <idno type="STC">Thomason E675_15</idno>
+            <idno type="STC">ESTC R206770</idno>
+            <idno type="EEBO-CITATION">99865876</idno>
+            <idno type="PROQUEST">99865876</idno>
+            <idno type="VID">166302</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A76900)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 166302)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 104:E675[15])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Bloudy newes from sea: being a perfect narrative, and exact relation, of the great and desperate engaging, between two hundred sail of English and Dutch-Men of war, upon the coast of Scilley: with the manner how Gen. Blake, and Sir George Ascue, drew their fleet into Battalia; the resolution of the Hollander; and the number of ships taken by the English. Also, the chasing of divers ships to the Downs; the taking of some English by Captain Bradshaw; the sinking of the London Faulcon; the number of ships surprized in Sole-Bay neer Yarmouth; and above one hundred sail of colliers coming into the Downs, bound for London. With the seizing of all the ships and goods belonging to the English merchants at St. Mallows in France; and the Kings proclamation to all his subjects.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for G. Horton,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1652.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Septemb. 21".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Naval battles --  Early works to 1800.</term>
+               <term>Anglo-Dutch War, 1652-1654 --  Early works to 1800.</term>
+               <term>Great Britain --  History, Naval --  Stuarts, 1603-1714 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:166302:1" rendition="simple:additions"/>
+            <p>BLOUDY NEWES FROM SEA: BEING A perfect Narrative, and exact Relation, of the great and deſperate Engaging, between Two hundred Sail of Engliſh and Dutch-Men of war, upon the Coaſt of Scilley: With the man<g ref="char:EOLhyphen"/>ner how Gen. Blake, and Sir George Aſcue, drew their Fleet into Battalia; the Re<g ref="char:EOLhyphen"/>ſolution of the Hollander; and the number of ſhips taken by the Engliſh.</p>
+            <p>Alſo, the chaſing of divers ſhips to the Downs; the taking of ſome Engliſh by Captain Bradſhaw; the ſinking of the London Faulcon; the number of ſhips ſurprized in Sole-Bay neer Yarmouth; and above one hundred ſail of Colliers com<g ref="char:EOLhyphen"/>ing into the Downs, bound for LONDON.</p>
+            <p>With the ſeizing of all the ſhips and goods belong<g ref="char:EOLunhyphen"/>ing to the Engliſh Merchants at St. Mallows in France; And the Kings Proclamation to all his ſubjects.</p>
+            <p>London Printed for G. Horton, 1652.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:166302:2"/>
+            <pb n="3" facs="tcp:166302:2"/>
+            <head>Bloudy Newes from Sea.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">O</seg>N the 9<hi rend="sup">th</hi> of this inſtant Septemb. Gen. Blake, and Sir George Aſcue called a Councel of Officers to conſult about the engaging of the Dutch Fleet; And accordingly with great alacrity and mutual affection it was reſolved to fight them; in purſuance whereof, his Ex<g ref="char:EOLhyphen"/>cellency gave direction for a ſquadron of ſhips to be drawn forth, to be commanded by valiant Capt. Coppin, who ſailing to<g ref="char:EOLhyphen"/>wards them, ſoon ſurprized about 18, laden with Salt, Wines, ſtrong-water, and other rich Merchandizes, &amp; bound from Nants;</p>
+            <pb n="4" facs="tcp:166302:3"/>
+            <p>About two in the afternoon, the whole Navy advanced; and within ten Leagues of Scilley they diſcovered the enemy, who made a ſhew as if they would immediatly fight; but towards the evening declined En<g ref="char:EOLhyphen"/>gagement: The next day they appeared a<g ref="char:EOLhyphen"/>gain in ſight, but keep off at a diſtance; ſo that the Gen: is in dayly purſuit of them; Their lying off at the head of our fleet is thought to be in policy; for by a Scout that we have taken, we are informed that Mich. de Ruttier their Admiral is reſolved to fight us, onely he waves the diſpute, until the coming up of Vice-Admiral Evarſon from Zealand, whoſe Mariners are ſaid to be famous both for courage and policy. In the interim, we have taken ten more of their Merchants, viz. The Lyon of Fluſhing, the Prince, the Hopewel, &amp;c. each ſhip carrying between 20 &amp; 30 Guns.</p>
+            <p>Several Merchants ſhips having ſtaid at
+<pb n="5" facs="tcp:166302:3"/>the Iſle of Wight for a convoy, at laſt ob<g ref="char:EOLhyphen"/>tained one from Portſmouth; and being all bound for London, they had not been long at ſea, ere they met with the Holland Fleet between Beachie and this Town; but the Frigat and a ſhip bound from Morlaix be<g ref="char:EOLhyphen"/>ing moſt to the windward than the reſt, kee<g ref="char:EOLhyphen"/>ping the ſhore cloſe, run aground; the reſt being a head of them got away: Theſe two being run aground, the enemy left them, &amp; followed the reſt above two hours; but all in vain, for they got ſafe under our Caſtle, and the other two got cleer off the next Tide. About which time, the Batchelor and Ann frigats gave fight to four Dutch-men of War, but being not able to maintain the diſpute, declined engagement, and recovered Mary ſound, getting off ſafe, though above 100 Guns were fired at them. The famous ſhip called the Faulcon of London, laden with Iron and Lemons from Bilbo is ſunk neer the Lands-end.</p>
+            <floatingText xml:lang="eng" type="declaration">
+               <body>
+                  <pb n="6" facs="tcp:166302:4"/>
+                  <head>By the KING.</head>
+                  <p>WE have with unſpeakable grief of heart long be<g ref="char:EOLhyphen"/>held the diſtractions of this our Kingdom; Our ve<g ref="char:EOLhyphen"/>ry ſoul is full of angniſh untill We may find ſome remedy to prevent the miſeries which are ready to overwhelm this whole Nation by a civil War. And although all Our endeavours tending to the compoſing of thoſe unhappy differences betwixt U, Our Unele, and Cozen the prince of Conde (though pur<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ued by Us with all zeal and ſince<g ref="char:EOLhyphen"/>rity) have been hitherto without the ſucceſs We hoped for; yet ſuch is Our conſtant and earneſt care to preſerve the publike pe<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>e, that we ſhall not be diſcouraged from uſing any Expedient, which by the bleſſing of the God of Mercy, may lay a firm foundation of peace and happineſſe to all Our good Subjects. To this end, obſerving that ma<g ref="char:EOLhyphen"/>ny miſtakes have ariſen about the expelling of the Cardi<g ref="char:EOLhyphen"/>nal, which happily may be prevented for the future, We have thought fit to propound to you, That ſome fit per<g ref="char:EOLhyphen"/>ſons may be by you inabled to tre<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t with the like number to be authorized by Us, in ſuch a manner, and with ſuch freedom of Debate, as may beſt tend to that happy con<g ref="char:EOLhyphen"/>cluſion which all good men deſire, The peace of the King<g ref="char:EOLhyphen"/>dom: Wherein as we promiſe in the word of a King all ſafety and encouragement to ſuch as ſhall be ſent to Us, if you ſhall chuſe the place where We are for the Treaty, which we wholly leave to you, preſuming of the like care of the ſafety of thoſe We ſhall imploy, if you ſhall name another place; So We aſſure you, and all Our good Sub<g ref="char:EOLhyphen"/>jects, that (to the beſt of Our underſtanding nothing ſhall be therein wanting on Our part, which may advance the
+<pb n="7" facs="tcp:166302:4"/>true Catholike Religion, ſecuring the Law of the Land, (upon which is built as well our juſt prerogative, as the propriety and liberty of the ſubject) confirm all juſt pow<g ref="char:EOLhyphen"/>er and priviledges of Parliament, and render Us and Our people truly happy by a good underſtanding betwixt us and Our ſubjects.</p>
+                  <p>Bring with you as firm Reſolutions to do your duty, and let all Our good people joyn with us in Our prayers to Almighty God for his bleſſing upon this Work.</p>
+                  <p>If this propoſition ſhall be rejected by you, We have done Our duty ſo amply that God will abſolve us from the guilt of any of that bloud which muſt be ſpilt. And what opinion ſoever other men may have of Our power, We aſſure you nothing but Our Chriſtian and pious care to prevent the effuſion of bloud hath begot this motion, Our proviſion of Men, Armes, and Money, being ſuch as may ſecure us from further violence, till it pleaſe God to open the eyes of Our people.</p>
+                  <closer>
+                     <signed>LEWIS, Rex.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>This Declaration being preſented to the Duke of Or<g ref="char:EOLhyphen"/>leans, it was with great alacrity reſented by his Royall Highneſs, yet notwithſtanding, many giddy-headed and factious ſpirits there are, who deſire to be obnoxious to this preſent Treaty: Which to prevent, the new Cardinal of Retz doth take great pains, and endeavors what he can to mediate Affaires, not ſparing his tongue or pen to come to an Agreement.</p>
+            <pb n="8" facs="tcp:166302:5"/>
+            <p>We have received further advertiſements that the Engliſh and Dutch fleets are en<g ref="char:EOLhyphen"/>gaged, and that a bloudy conflict hath hap<g ref="char:EOLhyphen"/>ned, divers ſhips ſunk, and many taken; the diſpute being maintained with great reſolu<g ref="char:EOLhyphen"/>tion on both ſides; but no juſt particulars can be given at preſent, by reaſon they are ſtil in continual action: Providence ſome<g ref="char:EOLhyphen"/>times ſmiles upon the one: and ſoon after frowns upon the other. We have taken a<g ref="char:EOLhyphen"/>bout 30 of the enemy in all; and many of ours are taken by Captain Bradſhaw neer the Weſtern Channel. The Patrick and Francis, two of the Scots Kings frigats, do much infeſt thoſe Coaſts: The like doth the enemy about Yarmouth Roads, who deſperately atempted the taking of two ſhips riding at anchor in Sole-bay; Upon which ſad tydings, we received this com<g ref="char:EOLhyphen"/>fortable news, that 100 ſail of Colliers are coming into the Downs, bound for London. The French at St. Mallows have ſeized on all the ſhips &amp; goods belonging to the Engliſh Merchants.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
